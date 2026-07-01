@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Tome of Heroes
+description: Data and Analysis of Fire Emblem Heroes
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://jecDSC.github.io/tome-of-heroes-site
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/jecDSC/tome-of-heroes-site
