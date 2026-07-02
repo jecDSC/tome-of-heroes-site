@@ -1,7 +1,7 @@
 ---
 title: Stat Creep
+layout: default
 parent: Studies
-nav_order: 2
 ---
 
 # **A Study: Statcreep in Fire Emblem Heroes**
