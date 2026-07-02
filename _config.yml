@@ -2,7 +2,9 @@ title: Tome of Heroes
 description: Data and Analysis of Fire Emblem Heroes
 theme: just-the-docs
 
-url: https://jecDSC.github.io/tome-of-heroes-site
+url: https://jecDSC.github.io/
 
 aux_links:
   Template Repository: https://github.com/jecDSC/tome-of-heroes-site
+
+color_scheme: dark
